@@ -8,7 +8,7 @@
 header.vegan {
     background-color: rgb(89, 184, 105);
     color: white;
-    border: 5px solid rgb(7, 63, 25);
+    border: 1px solid rgb(7, 63, 25);
 }
 main.vegan{
     background-color: rgba(89, 184, 105, 0.719) ;
@@ -17,14 +17,18 @@ main.vegan{
 header h1.vegan{
     padding-top: 10px;
     background-color:rgba(89, 184, 105, 0.719) ;
+    font-size: 3em;
+ 
 }
 nav.vegan{
-    background-color: blueviolet;
+    background-color:  rgb(89, 184, 105);
     width: 25px;
+    
 }
 h1.vegan{
     text-align: center;
     background-color: aliceblue;
+    color: rgb(1, 24, 12);
 }
 h2.vegan{
      text-align:center;
